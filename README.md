@@ -29,9 +29,9 @@ I learn by building projects, analyzing real-world datasets, and continuously im
 
 ```text
 const aadhar = {
-    role: "Data Analyst | Full Stack Developer",
+    role: "Data Analyst | Aspiring Full Stack Developer",
     based_in: "India",
-    currentFocus: ["Python", "SQL", "Power BI", "React", "Spring Boot"],
+    currentFocus: ["HTML", "CSS", "JavaScript", "Python", "SQL"],
     funFact: "I debug with print statements before I admit it's a real bug 😅"
 };
 ```
@@ -164,16 +164,6 @@ A complete e-commerce clothing platform built with **React, Java, Spring Boot an
 </div>
 
 > ⚠️ **Why some cards were removed:** the shared `github-readme-stats.vercel.app` and `github-readme-activity-graph.vercel.app` instances that generate stats/top-langs/activity cards are currently **paused by their owner** (confirmed — they're returning `503 DEPLOYMENT_PAUSED` as of Jan 2026), which is exactly why they showed as broken icons for you. That's not fixable from the README side; the fix is deploying your **own free copy** of that project on Vercel (5 minutes, uses your own GitHub token so it never rate-limits). Say the word and I'll write you the exact step-by-step for that — until then I've kept only the streak-stats card above, which uses a different, currently-working host.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aadhardwivedi&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-> This uses a community-hosted mirror since the main `github-profile-trophy.vercel.app` instance also gets overloaded during peak hours. If it ever breaks too, other volunteer mirrors are listed in the [project's README](https://github.com/ryo-ma/github-profile-trophy).
 
 ---
 
