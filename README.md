@@ -76,22 +76,3 @@ I learn by building projects, analyzing real-world datasets, and continuously im
 
 
 
-## 🚀 Featured Projects
-
-### 🛍️ Outlier — E-Commerce Clothing Platform
-
-A full-stack e-commerce clothing platform built with React and Spring Boot, featuring customer shopping, vendor management, administration, orders, payments, and analytics.
-
-**Tech Stack:** React • Java • Spring Boot • SQL • REST API
-
-**Highlights:**
-- 🛒 Customer shopping and product management
-- 🏪 Vendor dashboard and product management
-- ⚙️ Admin panel and user/vendor oversight
-- 📦 Cart, orders and order management
-- 💳 Payment workflow
-- 📊 Analytics and reporting
-- 🔐 Authentication and authorization
-- 🗄️ Database architecture and REST APIs
-
-🔗 **[View Project on GitHub](https://github.com/aadhardwivedi/Outlier---E-Commerce-Clothing-)**
