@@ -131,16 +131,6 @@ A complete e-commerce clothing platform built with **React, Java, Spring Boot an
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/aadhardwivedi/Outlier---E-Commerce-Clothing-">
-<img src="https://img.shields.io/badge/📁_GitHub-View_Repository-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://out-lier.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-Open_Website-F2C811?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
