@@ -42,14 +42,7 @@ const aadhar = {
 
 <div align="center">
 
-### 📊 Data & Analytics
-<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" /> &nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-### 💻 Development
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,git,github,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github&theme=dark" />
 
 </div>
 
@@ -59,19 +52,16 @@ const aadhar = {
 
 <div align="center">
 
-```
-                 DATA ANALYTICS
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-      Python           SQL         Power BI
-        │              │              │
-      Pandas       Data Analysis   Visualization
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                Business Insights
-```
+**🐍 Python&nbsp; → &nbsp;🐼 Pandas&nbsp; → &nbsp;🗄️ SQL&nbsp; → &nbsp;📊 Data Analysis&nbsp; → &nbsp;📈 Power BI&nbsp; → &nbsp;💡 Business Insights**
+
+<br/>
+
+| Stage | What I Do |
+|:---:|:---|
+| 🐍 **Python** | Clean and prep raw data with Pandas |
+| 🗄️ **SQL** | Query, join, and analyze structured data |
+| 📊 **Power BI** | Build interactive dashboards & reports |
+| 💡 **Insights** | Turn numbers into decisions stakeholders can act on |
 
 </div>
 
@@ -129,11 +119,9 @@ A complete e-commerce clothing platform built with **React, Java, Spring Boot an
 
 **Tech Stack**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+</p>
 
 **📸 Preview**
 
@@ -171,28 +159,21 @@ A complete e-commerce clothing platform built with **React, Java, Spring Boot an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadhardwivedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadhardwivedi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhardwivedi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadhardwivedi&theme=tokyo-night&hide_border=true" width="90%" alt="Contribution Graph"/>
+<img src="https://streak-stats.demolab.com/?user=aadhardwivedi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-> 💡 **Tip:** These cards pull live data automatically once your GitHub username is correct — no setup needed beyond replacing `aadhardwivedi` if that's not your exact handle.
+> ⚠️ **Why some cards were removed:** the shared `github-readme-stats.vercel.app` and `github-readme-activity-graph.vercel.app` instances that generate stats/top-langs/activity cards are currently **paused by their owner** (confirmed — they're returning `503 DEPLOYMENT_PAUSED` as of Jan 2026), which is exactly why they showed as broken icons for you. That's not fixable from the README side; the fix is deploying your **own free copy** of that project on Vercel (5 minutes, uses your own GitHub token so it never rate-limits). Say the word and I'll write you the exact step-by-step for that — until then I've kept only the streak-stats card above, which uses a different, currently-working host.
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aadhardwivedi&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=aadhardwivedi&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
+
+> This uses a community-hosted mirror since the main `github-profile-trophy.vercel.app` instance also gets overloaded during peak hours. If it ever breaks too, other volunteer mirrors are listed in the [project's README](https://github.com/ryo-ma/github-profile-trophy).
 
 ---
 
@@ -210,10 +191,10 @@ A complete e-commerce clothing platform built with **React, Java, Spring Boot an
 
 <div align="center">
 
-<a href="REPLACE_WITH_YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/aadhardwivedi/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:REPLACE_WITH_YOUR_EMAIL">
+<a href="mailto:aadhardwivedirgh0105@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/aadhardwivedi" target="_blank">
