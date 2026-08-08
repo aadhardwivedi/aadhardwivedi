@@ -131,18 +131,6 @@ A complete e-commerce clothing platform built with **React, Java, Spring Boot an
 </a>
 </p>
 
-**📌 Project Modules**
-
-| Module | Functionality |
-|---|---|
-| 🛍️ Customer | Products, categories, wishlist, cart, checkout and orders |
-| 🏪 Vendor | Dashboard, products, sales and analytics |
-| ⚙️ Admin | Users, vendors, products, categories and orders |
-| 💳 Payments | Checkout and payment workflow |
-| 📊 Analytics | Sales, earnings and performance reporting |
-| 🔐 Security | Authentication, authorization and role-based access |
-| 🗄️ Backend | SQL database and REST APIs |
-
 <p align="center">
 <a href="https://github.com/aadhardwivedi/Outlier---E-Commerce-Clothing-">
 <img src="https://img.shields.io/badge/📁_GitHub-View_Repository-black?style=for-the-badge&logo=github&logoColor=white"/>
