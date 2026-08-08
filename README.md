@@ -76,3 +76,82 @@ I learn by building projects, analyzing real-world datasets, and continuously im
 
 
 
+## 🚀 Featured Projects
+
+### 🟡 Project 1 — Outlier E-Commerce Clothing
+
+<p align="center">
+  <img src="./assets/outlier_favicon.png" width="110" alt="Outlier E-Commerce Clothing Logo">
+</p>
+
+<p align="center">
+  <strong>Full-Stack E-Commerce Clothing Platform</strong>
+</p>
+
+<p align="center">
+  A complete e-commerce platform with customer shopping, vendor management,
+  admin controls, payments, orders, and analytics.
+</p>
+
+<p align="center">
+  <a href="https://github.com/aadhardwivedi/Outlier---E-Commerce-Clothing-">
+    🔗 <strong>GitHub Repository</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://out-lier.vercel.app/">
+    🌐 <strong>Live Demo</strong>
+  </a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+**Frontend**
+- ⚛️ React
+- 🟨 JavaScript
+- 🌐 HTML
+- 🎨 CSS
+
+**Backend**
+- ☕ Java
+- 🍃 Spring Boot
+- 🔗 REST API
+
+**Database**
+- 🗄️ SQL
+
+---
+
+### ✨ Key Features
+
+- 🛍️ **Customer Shopping** — Product browsing, categories, wishlist and cart
+- 📦 **Order Management** — Orders, order summaries and tracking
+- 💳 **Payment Workflow** — Payment processing
+- 🏪 **Vendor Dashboard** — Product and vendor management
+- ⚙️ **Admin Panel** — User, vendor, product and category management
+- 📊 **Analytics & Reporting** — Sales, earnings and performance analytics
+- 🔐 **Authentication & Authorization** — Secure access and role-based functionality
+- 🗄️ **Database Architecture** — Structured SQL database and REST APIs
+
+---
+
+### 📸 Project Preview
+
+<p align="center">
+  <a href="https://out-lier.vercel.app/">
+    <img src="https://github.com/aadhardwivedi/Outlier---E-Commerce-Clothing-/raw/main/screenshots/home-page-01.png"
+         width="800"
+         alt="Outlier E-Commerce Clothing Home Page">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aadhardwivedi/Outlier---E-Commerce-Clothing-">
+    🔗 <strong>View Source Code →</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://out-lier.vercel.app/">
+    🌐 <strong>Live Demo →</strong>
+  </a>
+</p>
